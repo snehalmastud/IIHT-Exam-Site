@@ -2,17 +2,20 @@
 >Home Page
 
 
-![home](https://user-images.githubusercontent.com/45584726/80854913-88018380-8c59-11ea-87ac-e5a69b80fc93.jpg)
+![home](https://user-images.githubusercontent.com/45584726/80855139-12e37d80-8c5c-11ea-9688-daf096c02405.jpg)
+
 
 >Login Page
 
 
-![login](https://user-images.githubusercontent.com/45584726/80854876-2e995480-8c59-11ea-9c67-e8207be0986b.jpg)
+![login](https://user-images.githubusercontent.com/45584726/80855147-1ecf3f80-8c5c-11ea-8b50-d0bd4d673b98.jpg)
+
 
 >Contact Us Page
 
 
-![contact us](https://user-images.githubusercontent.com/45584726/80854890-55578b00-8c59-11ea-9c85-cfb720475f91.jpg)
+![contact us](https://user-images.githubusercontent.com/45584726/80855155-2e4e8880-8c5c-11ea-981a-8c07598eae72.jpg)
+
 
 ---
 
