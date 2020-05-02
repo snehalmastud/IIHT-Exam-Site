@@ -1,4 +1,4 @@
-# IIHT-Exam-Site
+# IIHT Exam Site!
 >Home Page
 
 
@@ -16,4 +16,10 @@
 
 ---
 
-## Hello
+## Hello...
+This is a MCQ Exam Site Developed using jsp and MySQL is for backend. Netbeans IDE is used.
+
+---
+
+## Note
+Here the database:iiht, user:root, pass:root. You have to create new database and insert your first user into the database and then use the application. 
