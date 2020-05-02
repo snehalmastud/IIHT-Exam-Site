@@ -25,4 +25,4 @@ This is a MCQ Exam Site Developed using jsp and MySQL is for backend. Netbeans I
 ---
 
 ## Note
-Here the database:iiht, user:root, pass:root. You have to create new database and insert your first user into the database and then use the application. 
+Here the database:iiht, user:root, pass:root. You have to create new database and insert your first user into the database and then start using the application. 
